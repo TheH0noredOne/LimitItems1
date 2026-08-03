@@ -1,0 +1,8 @@
+name: LimitItems
+version: 1.0
+main: me.tonnom.limititems.Main
+api-version: 1.21
+
+commands:
+  limit:
+    description: Limite un item
